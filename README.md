@@ -48,7 +48,7 @@ Grid cards with hover effects
 
 Clone this repository:
 
-git clone https://github.com/your-username/fynally.io.git
+git clone https://github.com/Sapa-Harika/Finally.io
 
 
 Open the folder:
@@ -70,7 +70,7 @@ Under Source, select main branch and /root
 
 Save → Your live site will be available at:
 
-https://your-username.github.io/fynally.io
+https://github.com/Sapa-Harika/Finally.io
 
 📌 Future Enhancements
 
