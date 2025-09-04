@@ -15,11 +15,11 @@ The brand represents Guidance, Growth, and Empowerment.
 
 🎨 Modern design with animations & responsive layout
 Fynally-Website/
-│ index.html          # Main HTML
-│ style.css           # CSS styling
-│ script.js           # Scroll animations
-│ README.md           # Documentation
-└─ images/            # Local images
+│ index.html         
+│ style.css           
+│ script.js           
+│ README.md           
+└─ images/            
    ├─ hero.jpg
    ├─ student1.jpg
    ├─ learning1.jpg
